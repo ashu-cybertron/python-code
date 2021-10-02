@@ -1,7 +1,3 @@
-[![Stargazers](https://img.shields.io/github/stars/Aasthajain123/Mlops_Task?style=for-the-badge)](https://github.com/Aasthajain123/Mlops_Task/stargazers)
-[![Issues](https://img.shields.io/github/issues/Aasthajain123/Mlops_Task?style=for-the-badge)](https://github.com/Aasthajain123/Mlops_Task/issues)
-[![Contributors](https://img.shields.io/github/contributors/Aasthajain123/Mlops_Task?style=for-the-badge)](https://img.shields.io/github/contributors/Aasthajain123/Mlops_Task)
-[![Forks](https://img.shields.io/github/forks/Aasthajain123/Mlops_Task?style=for-the-badge)](https://github.com/Aasthajain123/Mlops_Task/network/members)
 
 ## 🌟Tech Stacks
 **Python 3.5+**
