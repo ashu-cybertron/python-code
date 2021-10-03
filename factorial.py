@@ -14,4 +14,4 @@ def cal_factorial(num: int):
 
 if __name__ == '__main__': 
 
-print(cal_factorial(4)) 
+    print(cal_factorial(4)) 
